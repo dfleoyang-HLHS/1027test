@@ -80,7 +80,7 @@ export const HualienSpotlightSection: React.FC<HualienSpotlightSectionProps> = (
                 <span className="text-xs font-semibold text-slate-500">探究與實作 ｜ 2學分36節 ｜ 高二</span>
               </div>
               <h3 className="text-xl font-bold text-slate-900 mt-0.5">
-                搶救海洋大作戰 — 國立花蓮高級中學 (黃雅茜 教師)
+                搶救海洋大作戰 — 國立花蓮高級中學 (黃雅蕾 教師)
               </h3>
             </div>
           </div>
@@ -96,7 +96,7 @@ export const HualienSpotlightSection: React.FC<HualienSpotlightSectionProps> = (
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
           <div className="lg:col-span-7 space-y-4 text-xs sm:text-sm text-slate-700 leading-relaxed">
             <p>
-              花蓮臨近太平洋黑潮，擁有得天獨厚的海洋自然地景與生態多樣性。本課程由<strong>黃雅茜老師</strong>精心設計，以「真實世界海洋浩劫」為探究核心，帶領花中學子走訪七星潭海岸，進行海廢監測採樣、微塑膠分析與海洋永續對話。
+              花蓮臨近太平洋黑潮，擁有得天獨厚的海洋自然地景與生態多樣性。本課程由<strong>黃雅蕾老師</strong>精心設計，以「真實世界海洋浩劫」為探究核心，帶領花中學子走訪七星潭海岸，進行海廢監測採樣、微塑膠分析與海洋永續對話。
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs pt-1">

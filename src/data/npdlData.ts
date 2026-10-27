@@ -139,7 +139,7 @@ export const NPDL_COURSES: CourseCase[] = [
     title: '搶救海洋大作戰',
     subtitle: '在地海洋保育 × 深度學習全球素養實踐',
     school: '國立花蓮高級中學',
-    teachers: ['黃雅茜 教師'],
+    teachers: ['黃雅蕾 教師'],
     region: '東部',
     schoolType: '國立普通高中',
     courseType: '探究與實作',

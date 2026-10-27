@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# GitHub 100MB file limit: ignore large PDF assets
+*.pdf
+public/assets/aistudio/*.pdf
+extracted_*.txt
+extracted_*.json
+.aistudio/
+
